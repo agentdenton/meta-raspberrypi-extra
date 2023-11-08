@@ -1,6 +1,6 @@
 require recipes-core/images/core-image-minimal-dev.bb
 
-DESCRIPTION = "Development image for rpi0w"
+DESCRIPTION = "Development image for raspberry pi"
 
 IMAGE_FEATURES += "\
     debug-tweaks \

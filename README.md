@@ -1,1 +1,1 @@
-## meta-raspberrypi-extra
+## meta-raspberrypi-extras
