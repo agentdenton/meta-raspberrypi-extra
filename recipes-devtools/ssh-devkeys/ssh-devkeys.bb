@@ -8,7 +8,7 @@ SRC_URI = "\
     file://sshd_config_dev \
 "
 
-DEPENDS += "rpi-secrets-native"
+DEPENDS += "rpi-secrets"
 
 KEYS_DIR = "${RPI_SECRETS_DIR}/ssh/devkeys"
 

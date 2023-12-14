@@ -14,9 +14,9 @@ IMAGE_INSTALL += "\
     i2c-tools \
     python3 \
     vim \
+    dhcpcd \
 "
 
 IMAGE_INSTALL += "\
     ssh-devkeys \
-    devconfigs \
 "
