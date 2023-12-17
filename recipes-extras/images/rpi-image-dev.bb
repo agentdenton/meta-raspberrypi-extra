@@ -11,6 +11,7 @@ IMAGE_INSTALL += "\
     linux-firmware \
     kernel-modules \
     wpa-supplicant \
+    iw \
     i2c-tools \
     python3 \
     vim \
